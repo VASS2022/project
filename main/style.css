@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     box-sizing:border-box;
-    background-color:f34e00;
+    background-image:url("assets/homepage.jpg");
     width:100vw;
     height:100vh;
     display:flex;
