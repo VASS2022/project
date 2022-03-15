@@ -1,0 +1,6 @@
+#hero {
+  width: 100%;
+  height: 100vh;
+  background: url("../assets/homepage.jpg") top center;
+  background-size: cover;
+}
