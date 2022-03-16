@@ -7,8 +7,7 @@
 #header{
             background-color:#CCeEFE;
             color:#bf5e75;
-            Width:1024px;
-            height:40px;
+            padding:345px, 345px;
             text-align:center;
             font-size:40px;
             box-shadow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
