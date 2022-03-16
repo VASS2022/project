@@ -4,3 +4,13 @@
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
+.header{
+            background-color:#CCeEFE;
+            color:#bf5e75;
+            padding:25px;
+            text-align:center;
+            font-size:40px;
+            box-shadow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
+            border-radius:10%;
+            font-family:florence, cursive;
+        }
