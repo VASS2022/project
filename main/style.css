@@ -4,17 +4,12 @@
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
-#header{
+.header{
             width:200px;
             height:60px;
-            Background:#ffcccc;
+            background:linear-gradient(35deg , #CCFFFF, #FFCCCC);
             text-align:center;
             font-size:40px;
             box-shadow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23);
             font-family:florence, cursive;
-            animation:mymove 10s infinite;
         }
-@keyframe mymove {
-from { background-color:#ffcccc;}
-to { background-color:#ccffff;}
-}
