@@ -4,7 +4,7 @@
   height: 800px;
   background: url("../assets/homepage.png") top center;
   background-size: cover;
-  z-index:1;
+  z-index:2;
 }
     #bar{
     position:absolute;text-align:center;
