@@ -4,7 +4,7 @@
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
-.header{
+.header {
             width:200px;
             height:60px;
             background:linear-gradient(35deg , #CCFFFF, #FFCCCC);
