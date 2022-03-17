@@ -1,10 +1,10 @@
+
 #hero {
-  width:1024px;
-  height:800px;
+  width: 1024px;
+  height: 800px;
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
-
     #bar{
     position:absolute;text-align:center;
     width:350px;
