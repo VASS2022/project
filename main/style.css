@@ -5,7 +5,7 @@
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
-    #bar{
+ div {
     position:absolute;text-align:center;
     width:350px;
     top:15px;
