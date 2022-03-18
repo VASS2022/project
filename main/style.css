@@ -10,35 +10,35 @@
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:30px;
-  float:right;
+  margin-left:70px;
+  float:left;
 }
 #tab1 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:30px;
-  float:right;
+  margin-left:70px;
+  float:left;
 }
 #tab2 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:30px;
-  float:right;
+  margin-left:70px;
+  float:left;
 }
 #tab3 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:30px;
-  float:right;
+  margin-left:70px;
+  float:left;
 }
 
 #tab4 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:25px;
+  margin-left:70px;
   float:left;
 }
