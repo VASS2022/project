@@ -13,6 +13,13 @@
   margin-left:30px;
   float:right;
 }
+#tab1 {
+  border-radius: 10%;
+  display: inline-block;
+  flex-wrap: wrap;
+  margin-left:30px;
+  float:right;
+}
 #tab2 {
   border-radius: 10%;
   display: inline-block;
@@ -27,10 +34,11 @@
   margin-left:30px;
   float:right;
 }
+
 #tab4 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:30px;
-  float:right;
+  margin-left:25px;
+  float:left;
 }
