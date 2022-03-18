@@ -7,8 +7,8 @@
   height:1014px;
 }
 .tabs {
-  border: 1px solid #c3c3c3;
+  border: 5px solid #c3c3c3;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
+  float:center;
 }
