@@ -6,11 +6,27 @@
   background-size: 100% 100%;
   height:1014px;
 }
-.tabs {
+#tab1 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
   float:center;
-  left:40px;
-  
+}
+#tab2 {
+  border-radius: 10%;
+  display: inline-block;
+  flex-wrap: wrap;
+  float:center;
+}
+#tab3 {
+  border-radius: 10%;
+  display: inline-block;
+  flex-wrap: wrap;
+  float:center;
+}
+#tab4 {
+  border-radius: 10%;
+  display: inline-block;
+  flex-wrap: wrap;
+  float:center;
 }
