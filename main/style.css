@@ -10,27 +10,27 @@
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  margin-left:50px;
+  margin-left:30px;
   float:right;
 }
 #tab2 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  float:center;
-  background: top center;
+  margin-left:30px;
+  float:right;
 }
 #tab3 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  float:center;
-  background: top center;
+  margin-left:30px;
+  float:right;
 }
 #tab4 {
   border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
-  float:center;
-  background: top center;
+  margin-left:30px;
+  float:right;
 }
