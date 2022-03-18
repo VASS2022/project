@@ -7,10 +7,10 @@
   height:1014px;
 }
 .tabs {
-  border-radius: 15px;
+  border-radius: 10%;
   display: inline-block;
   flex-wrap: wrap;
   float:center;
-  padding:15px 115px;
+  left:40px;
   
 }
