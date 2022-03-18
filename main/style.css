@@ -6,4 +6,8 @@
   background-size: 100% 100%;
   height:1044px;
 }
+.dropdown-content {
+  display: block;
+  padding: 8px;
+}
 
