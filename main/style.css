@@ -3,7 +3,6 @@
   float:center;
   background: url("../assets/homepage.png") top center;
   background-repeat: no-repeat;
-  background-attachment: fixed; 
   background-size: 100% 100%;
   height:1024px;
 }
