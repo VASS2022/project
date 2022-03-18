@@ -1,7 +1,9 @@
 
 #hero {
-  height:1044px;
-  width:822px;
+  height:1024px;
+  width:870px;
+  float:center;
+  width:px;
   background: url("../assets/homepage.png") top center;
   background-size: cover;
 }
